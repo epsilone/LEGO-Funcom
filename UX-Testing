@@ -1,0 +1,4 @@
+$ mkdir ~/UX-Testing
+$ cd ~/UX-Testing
+$ git init
+$ touch README
